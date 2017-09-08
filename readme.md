@@ -30,4 +30,4 @@
 
 *{MIT open source.}*
 
-Copyright (c) {2017} **{Richard and Andrew}**
+Copyright (c) {2017} **{colleagues at MP-Gha}**
