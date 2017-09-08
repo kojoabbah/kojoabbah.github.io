@@ -2,7 +2,7 @@
 
 #### {Brief description of application}, {8th Sept 2017}
 
-#### By **{Kojo Abba}**
+#### By **{Kojo Abbah}**
 
 ## Description
 
